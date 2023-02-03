@@ -6,6 +6,7 @@
 import requests
 import json
 
+![](api.png)
 
 # open apis= accessible for public; private apis= unavailable to public.
 
