@@ -81,7 +81,7 @@ type()
 # pip -v = shows the commands for pip
 # pip -V = shows the version we have installed
 ```
-## ***Creating an app directory***
+## ***Creating a package***
 
 1. Create a package folder.
 2. Within the package folder create an app folder -> create 2 .py files : __init__ and fizzbuzz(in this case).
